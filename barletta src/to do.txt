@@ -1,0 +1,3 @@
+fix ui
+make exp gain ( rage gain ) more powerfull
+implement new opus_encode logic limit
